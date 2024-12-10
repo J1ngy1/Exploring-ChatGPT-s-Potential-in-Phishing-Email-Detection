@@ -4,7 +4,7 @@ from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 DEMONSTRATIONS = """
 Example 1:
 Subject: Limited-time offer just for you!
